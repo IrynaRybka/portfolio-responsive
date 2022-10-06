@@ -90,6 +90,10 @@ p {
     margin: 30px;
 }
 
+.img-border{
+    outline: 1px solid var(--secondary-color);
+}
+
 .btn-branding {
     background: var(--branding-color);
     border-radius: 4px;
